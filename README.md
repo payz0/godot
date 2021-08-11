@@ -8,3 +8,4 @@ RUntutan kerja godot
 6. Untuk posisi kamera di interpolatecamera butuh spatial dalam sub object target kamera agar jatunya posisi kamera masuk dalam spatial tidak dalam mesh instance.
 7. Lighting bisa di tambah agar lebih real dan object memiliki shadow
 8. untuk dunia game bisa di atur pada pengaturan camera environtment, dan bisa di simpan untuk di jadikan environtment default
+9. Pada mesh instance bisa di tambah texture pada material plih newSpatialMeterial lalu custom pada normal map yg sudah di enable, lalu untuk scale dan lebih real pada UV1 centang trapnalar, jika perlu tambah lagi texture pada Roughness
