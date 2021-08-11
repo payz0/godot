@@ -9,6 +9,7 @@ RUntutan kerja godot
 7. Lighting bisa di tambah agar lebih real dan object memiliki shadow
 8. untuk dunia game bisa di atur pada pengaturan camera environtment, dan bisa di simpan untuk di jadikan environtment default
 9. Pada mesh instance bisa di tambah texture pada material plih newSpatialMeterial lalu custom pada normal map yg sudah di enable, lalu untuk scale dan lebih real pada UV1 centang trapnalar, jika perlu tambah lagi texture pada Roughness
-10. ![object godot](https://user-images.githubusercontent.com/14965941/128979154-3fb2cfa6-a255-40e9-a214-3760c656cf09.png)
+10.
+![Alt text](/relative/path/to/https://user-images.githubusercontent.com/14965941/128979154-3fb2cfa6-a255-40e9-a214-3760c656cf09.png?raw=true "Optional Title")
 
 
